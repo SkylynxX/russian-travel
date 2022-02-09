@@ -1,4 +1,4 @@
-.place__website__link {
+.place__link {
     /* border: 1px solid red; */
     color: #FFFFFF;
     margin: 0;
@@ -8,6 +8,6 @@
     transition: opacity 1s;
   }
   
-  .place__website__link:hover {
+  .place__link:hover {
     opacity: 80%;
   }
