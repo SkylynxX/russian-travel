@@ -1,0 +1,11 @@
+.header__logo-link-zone {
+  /* border: 1px solid red; */
+  height: 100%;
+  padding-top: 18px;
+}
+
+@media screen and (max-width: 680px) {
+  .header__logo-link-zone {
+    padding-top: 14px;
+  }
+}

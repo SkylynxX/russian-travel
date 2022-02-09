@@ -1,0 +1,12 @@
+.cover__link {
+    display: block;
+    height: 100%;
+    z-index: 2;
+    color: #FFFFFF;
+    text-decoration: none;
+    transition: opacity 1s;
+  }
+  
+  .cover__link:hover {
+    opacity: 80%;
+  }
