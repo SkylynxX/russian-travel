@@ -2,7 +2,7 @@
   display: block;
   max-width: 984px;
   /* border: 1px solid red; */
-  margin: 92px auto 92px auto;
+  margin: 92px auto;
 }
 
 @media screen and (max-width: 1024px) {
@@ -14,13 +14,13 @@
 @media screen and (max-width: 768px) {
   .intro {
     max-width: 720px;
-    margin: 88px auto 88px auto;
+    margin: 88px auto;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro {
     max-width: 288px;
-    margin: 64px auto 64px auto;
+    margin: 64px auto;
   }
 }
